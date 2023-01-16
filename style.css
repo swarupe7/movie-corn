@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Inter',sans-serif;
+    background: url('mv.jpg');
+    
+}
+.logo{
+    padding-top: 10px;
+background-color: black;
+color:white;
+font-weight: bold;
+height: 35px;
+text-align: center;
+align-items: center;
+
+
+}
+p{
+    display: flex;
+    
+}
+span{
+    color:yellow;
+}
+.search-container{
+   border-radius: 10px;
+   width:max-content;
+    display:flex;
+    justify-content: center;
+    left:45%;
+   margin-top: 150px;
+   padding-left: 15px;
+   background-color: white;
+   margin-left:40%;
+  
+}
+.srh-btn{
+    padding-top:5px;
+    
+}
+.srh-btn button{
+    background-color: rgb(237, 109, 109);
+    border-radius: 5px;
+}
+h3{
+ padding-bottom: 5px;   
+}
+.search-element{
+    padding:5px;
+    
+    justify-content: space-around;
+}
+.sp{
+    padding-top:5px;
+}
